@@ -17,9 +17,6 @@ namespace project_2
             return sum; //اخليه يرجع تاني للداله وينفذها
 
         }
-
-
-
         static void Main(string[] args) // دي الداله الاصليه 
         {
 
@@ -42,32 +39,6 @@ namespace project_2
                        //Mariam ramadan
 
             }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
